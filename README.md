@@ -1,2 +1,26 @@
-# Simple-Face-Detection-with-HOG-Histogram-of-Oriented-Gradient-Descriptor-
-Simple Face Detection with Few Lines of Code using (Histogram of  Oriented Gradient Descriptor)
+# Simplest-Face-Detection-System-With-HOG-&-DeepLearning
+
+## Face Detection In Image Using HOG (Histogram of Oriented Gradient Descriptor)
+
+Author - Wai Yan Nyein Naing @ William
+
+This tutorail will details how to recognize and manipulate faces from images with few lines of code using dlib and opencv library.
+
+# Requirements
+
+- Python 2.7/3.5
+- Anaconda / Jupyter Notebook
+
+
+# Library Requirements
+- openCV
+- cmake  
+- dlib
+
+# Installation Options
+
+## CMake
+https://cmake.org/download/
+
+## Anaconda + Python + Dlib
+https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/
