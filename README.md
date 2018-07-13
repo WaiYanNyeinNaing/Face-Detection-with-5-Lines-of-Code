@@ -32,6 +32,4 @@ https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/
 
 # Face Detected Image
 
-# Original Image
-
-![alt text](https://github.com/WaiYanNyeinNaing/Face-Detection-with-5-Lines-of-Code/blob/master/face1.jpg)
+![alt text](https://github.com/WaiYanNyeinNaing/Face-Detection-with-5-Lines-of-Code/blob/master/face1.png)
